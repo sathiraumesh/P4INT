@@ -1,0 +1,12 @@
+finsy==0.27.0
+googleapis-common-protos==1.70.0
+grpcio==1.71.0
+grpcio-tools==1.71.0
+mininet==2.3.0.dev6
+p4python==2024.2.2682690
+parsy==2.1
+protobuf==5.29.4
+pyee==12.1.1
+scapy==2.6.1
+setuptools==80.4.0
+typing_extensions==4.13.2
